@@ -19,8 +19,7 @@ Focused on manual testing with growing knowledge in API testing (Postman) and SQ
 | `test-plans/` | Test plans for small projects |
 
 ## Applications tested
-- Sauce Demo (saucedemo.com)
-- The Internet (the-internet.herokuapp.com)
+- https://travel.agileway.net
 
 ---
 *Updated: April 2026*
